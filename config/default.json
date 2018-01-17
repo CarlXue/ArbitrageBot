@@ -1,0 +1,17 @@
+{
+    "Coinspot":{
+        "key": "",
+        "secret": "",
+        "ltcFeeRate": 0.03
+    },
+    "Coinbase":{
+        "accessToken": "",
+        "refreshToken": "",
+        "defaultAccountId": ""
+    },
+    "PushOver":{
+        "token": "",
+        "userKey": "",
+        "deviceId": ""
+    }
+}
